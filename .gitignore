@@ -1,0 +1,6 @@
+[Ll]ibrary/ 
+[Oo]bj/ 
+[Tt]emp/ 
+*.log 
+*.user 
+*.suo 
